@@ -14,4 +14,9 @@ npm i webpack webpack-cli -D
 
  
  ### tsconfig.json
+ 初始化tsconfig
  tsc --init
+
+ ### 搭建本地服务
+
+ npm install webpack-dev-server -D
